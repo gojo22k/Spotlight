@@ -1,0 +1,9 @@
+#JUJUTSU KAISEN
+
+#The curses unite for the common goal of eradicating humans and creating a world of
+only cursed energy users, led by a dangerous, ancient cursed spirit. To dispose of their
+greatest obstacle—the strongest sorcerer, Gojou—they orchestrate an attack at Shibuya Station on Halloween.
+
+#./detail.html?name=Jujutsu%20Kaisen&folderIds=%5B1248549%2C134619%2C834248%5D&cloudNames=%5B"DoodStream"%2C"Filemoon"%2C"MixDrop"%5D&tileImageUrl=https%3A%2F%2Fres.cloudinary.com%2Fdadackhrl%2Fimage%2Fupload%2FJujutsu_Kaisen_Tile.jpg
+
+#./video_player.html?embedCode=<iframe%20src%3D"https%3A%2F%2Ffilemoon.in%2Fe%2F6we94144rvrt"%20frameborder%3D"0"%20marginwidth%3D"0"%20marginheight%3D"0"%20scrolling%3D"no"%20width%3D"700"%20height%3D"393"%20allowfullscreen><%2Fiframe>&title=01%20–%20Ryomen%20Sukuna&cloudName=Filemoon&name=Jujutsu%20Kaisen&folderIds=%5B1248549%2C134619%2C834248%5D&cloudNames=%5B"DoodStream"%2C"Filemoon"%2C"MixDrop"%5D&tileImageUrl=https%3A%2F%2Fres.cloudinary.com%2Fdadackhrl%2Fimage%2Fupload%2FJujutsu_Kaisen_Tile.jpg
