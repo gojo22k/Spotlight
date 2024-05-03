@@ -1,8 +1,7 @@
 #SOLO LEVELING
 
 # In a world where hunters, humans who possess magical abilities, must battle deadly monsters to
-protect the human race from certain annihilation, a notoriously weak hunter named Sung Jinwoo finds
-himself in a seemingly endless struggle for survival...
+protect the human race from certain annihilation, a notoriously weak hunter named Sung Jinwoo finds himself in a seemingly endless struggle for survival...
 
 #./detail.html?name=Solo%20Leveling&folderIds=%5B1248554%2C834244%2C70482%2C134625%5D&cloudNames=%5B"DoodStream"%2C"MixDrop"%2C"StreamWish"%2C"Filemoon"%5D&tileImageUrl=undefined
 
