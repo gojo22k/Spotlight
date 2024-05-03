@@ -1,3 +1,7 @@
-Naruto Uzumaki is a twelve-year-old ninja living in the Hidden Leaf Village under harsh ridicule
-from the villagers, having defaced a monument dedicated to the four Hokage leaders out of
-a need for acknowledgment.
+#NARUTO SHIPPUDEN
+
+#Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village. Naruto Uzumaki wants to be the best ninja in the land.
+
+#./detail.html?name=Naruto%20Shippuden&folderIds=%5B834322%2C149156%2C86515%5D&cloudNames=%5B%22MixDrop%22%2C%22Filemoon%22%2C%22StreamWish%22%5D&tileImageUrl=undefined
+
+#./video_player.html?embedCode=%3Ciframe%20src%3D%22https%3A%2F%2Ffilemoon.in%2Fe%2F6qkr4ghata3b%22%20frameborder%3D%220%22%20marginwidth%3D%220%22%20marginheight%3D%220%22%20scrolling%3D%22no%22%20width%3D%22700%22%20height%3D%22393%22%20allowfullscreen%3E%3C%2Fiframe%3E&title=001&cloudName=Filemoon&name=Naruto%20Shippuden&folderIds=%5B834322%2C149156%2C86515%5D&cloudNames=%5B%22MixDrop%22%2C%22Filemoon%22%2C%22StreamWish%22%5D&tileImageUrl=undefined
