@@ -1,3 +1,9 @@
-Izuku Midoriya, a boy born without any powers, dreams of being able to become a
+#MY HERO ACADEMIA
+
+#Izuku Midoriya, a boy born without any powers, dreams of being able to become a
 superhero too, but gets bullied for his unrealistic dreams. One day, his fate changes in
-an unexpected meeting with the no.1 hero All Might, and he is given the chance
+an unexpected meeting with the no.1 hero All Might, and he is given the chance...
+
+#./detail.html?name=My%20Hero%20Academia%20Season%201&folderIds=%5B138643%2C35154%2C85909%2C834046%5D&cloudNames=%5B%22Filemoon%22%2C%22VidHide%22%2C%22StreamWish%22%2C%22MixDrop%22%5D&tileImageUrl=https%3A%2F%2Fres.cloudinary.com%2Fdadackhrl%2Fimage%2Fupload%2FMy_Hero_Academia_Season_1_Tile.jpg
+
+#./video_player.html?embedCode=%3Ciframe%20src%3D%22https%3A%2F%2Ffilemoon.in%2Fe%2Fle0kvwlom6cq%22%20frameborder%3D%220%22%20marginwidth%3D%220%22%20marginheight%3D%220%22%20scrolling%3D%22no%22%20width%3D%22700%22%20height%3D%22393%22%20allowfullscreen%3E%3C%2Fiframe%3E&title=S1E01&cloudName=Filemoon&name=My%20Hero%20Academia%20Season%201&folderIds=%5B138643%2C35154%2C85909%2C834046%5D&cloudNames=%5B%22Filemoon%22%2C%22VidHide%22%2C%22StreamWish%22%2C%22MixDrop%22%5D&tileImageUrl=https%3A%2F%2Fres.cloudinary.com%2Fdadackhrl%2Fimage%2Fupload%2FMy_Hero_Academia_Season_1_Tile.jpg
