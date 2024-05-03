@@ -1,6 +1,6 @@
 #JUJUTSU KAISEN
 
-#The curses unite for the common goal of eradicating humans and creating a world of
+# The curses unite for the common goal of eradicating humans and creating a world of
 only cursed energy users, led by a dangerous, ancient cursed spirit. To dispose of their
 greatest obstacle—the strongest sorcerer, Gojou—they orchestrate an attack at Shibuya Station on Halloween.
 
