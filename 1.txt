@@ -1,6 +1,6 @@
-#ONE PIECE : "The Land Of Wano"
+#ONE PIECE
 
-#The Wano Country arc, which is the 31st story arc in the manga and anime series One Piece, is about the alliance of pirates, samurai, minks, and ninja who come together to free Wano Country from the corrupt shogun Kurozumi Orochi...
+#"The Land Of Wano" : The Wano Country arc, which is the 31st story arc in the manga and anime series One Piece, is about the alliance of pirates, samurai, minks, and ninja who come together to free Wano Country from the corrupt shogun Kurozumi Orochi...
 
 #./detail.html?name=Jujutsu%20Kaisen&folderIds=%5B1248549%2C134619%2C834248%5D&cloudNames=%5B"DoodStream"%2C"Filemoon"%2C"MixDrop"%5D&tileImageUrl=https%3A%2F%2Fres.cloudinary.com%2Fdadackhrl%2Fimage%2Fupload%2FJujutsu_Kaisen_Tile.jpg
 
