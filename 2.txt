@@ -1,8 +1,0 @@
-#SOLO LEVELING
-
-# In a world where hunters, humans who possess magical abilities, must battle deadly monsters to
-protect the human race from certain annihilation, a notoriously weak hunter named Sung Jinwoo finds himself in a seemingly endless struggle for survival...
-
-#./detail.html?name=Solo%20Leveling&folderIds=%5B1248554%2C834244%2C70482%2C134625%5D&cloudNames=%5B"DoodStream"%2C"MixDrop"%2C"StreamWish"%2C"Filemoon"%5D&tileImageUrl=undefined
-
-#./video_player.html?embedCode=<iframe%20src%3D"https%3A%2F%2Ffilemoon.in%2Fe%2F3l6bvw8qrrmo"%20frameborder%3D"0"%20marginwidth%3D"0"%20marginheight%3D"0"%20scrolling%3D"no"%20width%3D"700"%20height%3D"393"%20allowfullscreen><%2Fiframe>&title=01%20I%20Am%20Used%20To%20It&cloudName=Filemoon&name=Solo%20Leveling&folderIds=%5B1248554%2C834244%2C70482%2C134625%5D&cloudNames=%5B"DoodStream"%2C"MixDrop"%2C"StreamWish"%2C"Filemoon"%5D&tileImageUrl=undefined
