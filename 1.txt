@@ -1,7 +1,7 @@
-#DEMON SLAYER 
+#DAN DA DAN
 
-#Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day...
+#Two unlikely classmates become friends when their lives are intertwined due to their beliefs. Momo believes in the supernatural, not the occult, and Okarun believes the opposite. They challenge each other to prove who's belief is true. Momo ends up being abducted, and Okarun is cursed...
 
-#./detail.html?name=Demon%20Slayer%20Season%201&folderIds=%5B197763%2C%22846800%22%5D&cloudNames=%5B%22Filemoon%22%2C%22MixDrop%22%5D&tileImageUrl=https%3A%2F%2Fmedia.kitsu.io%2Fanime%2F47635%2Fposter_image%2F311548c1ed877347afe6e5684f5d213a.png
+#./detail.html?name=DAN%20DA%20DAN&folderIds=%5B224093%5D&cloudNames=%5B%22Filemoon%22%5D&tileImageUrl=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F48269%2Fposter_image%2F4ca623665992a9df00c5bb2a21063aaf.jpg
 
-#./video_player.html?embedCode=%3Ciframe%20src%3D%22https%3A%2F%2Ffilemoon.in%2Fe%2F444i2p66ewev%22%20frameborder%3D%220%22%20marginwidth%3D%220%22%20marginheight%3D%220%22%20scrolling%3D%22no%22%20width%3D%22700%22%20height%3D%22393%22%20allowfullscreen%3E%3C%2Fiframe%3E&title=01&cloudName=Filemoon&name=Demon%20Slayer%20Season%201&folderIds=%5B197763%2C%22846800%22%5D&cloudNames=%5B%22Filemoon%22%2C%22MixDrop%22%5D&tileImageUrl=https%3A%2F%2Fmedia.kitsu.io%2Fanime%2F47635%2Fposter_image%2F311548c1ed877347afe6e5684f5d213a.png
+#./video_player.html?embedCode=%3Ciframe%20src%3D%22https%3A%2F%2Ffilemoon.in%2Fe%2Ft6c4ywifjm4t%22%20frameborder%3D%220%22%20marginwidth%3D%220%22%20marginheight%3D%220%22%20scrolling%3D%22no%22%20width%3D%22700%22%20height%3D%22393%22%20allowfullscreen%3E%3C%2Fiframe%3E&title=Episode%2001%20-%20That%27s%20How%20Love%20Starts%2C%20Ya%20Know!&cloudName=Filemoon&name=DAN%20DA%20DAN&folderIds=%5B224093%5D&cloudNames=%5B%22Filemoon%22%5D&tileImageUrl=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F48269%2Fposter_image%2F4ca623665992a9df00c5bb2a21063aaf.jpg
